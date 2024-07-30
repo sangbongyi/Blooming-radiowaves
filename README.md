@@ -3,9 +3,9 @@
 
 ## Introduction
 
-The device was inspired by an idea that derived from the speculation between the notion of hyperobject, humiliating artificial environments, and Lovecraftian monsters. This superstitious apparatus detects the presence of a hyperobject veiled behind in the air by using implicit information such as radio wave signals from Wifi and satellites.
+The project device has a flower-shaped antenna and a simple radio circuit. The antenna on the front receives radio waves around the device, like the recognition organ of a living organism. The detected signal passes through a radio circuit and is converted into a sound that audiences can hear. Through this signal, the audiences can recognize the footprints of the gigantic technological civilization that always exists around us.
 
-People always try to find a way to identify an invisible thing that surrounds us. Like they did to nature. The more it feels terrifying and makes us humiliated, The more we strive to come up with tools to solve the problem.However, not all of the solutions were adequately made. One of the examples was dowsing Rod. Even in this modern time, people could stick to a thinking process based on fear and curiosity which is highly dependent on an irrational mind, just like the way people thought in the past. 
+The ecological or post-anthropocene perspective starts from awareness of our current situation. One of the various artificial traces created by humans is radio waves. It creates so many waves, so we can tell that we live in the radio waves civilization. By creating a device that is sonifying this huge ecological footprint, we can recognize the shock that is not captured by our senses.
 
 ![Hyper-object Dowser image 1](/assets/images/image_1.png)
 
