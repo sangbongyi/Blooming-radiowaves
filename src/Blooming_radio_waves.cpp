@@ -1,5 +1,5 @@
 /* 
-  Hyper object dowser project
+  Blooming radiowaves project
   Copyright (c) 2024 Sangbong Lee <sangbong@me.com>
   
   * Stepper motor controller that rotate brass rods depends on the signal magnitude from WiFi devices and satellites on the sky
