@@ -1,5 +1,5 @@
 # Blooming-radiowaves
-**_Stepper motor controller that rotate brass rods depends on the signal magnitude from WiFi devices and satellites on the sky. This code allows the esp32 board to scan the existence of WiFi routers, and the location of satellites that are tracked based on the current GPS position of the device. Then, it calculates the number of sources which emit signals and magnitudes of those signal from the sources. Lastly, the device converts the number of sources and magnitude of signals to the rotation value of the stepper motor for the dowsing rod._**
+**_Stepper motor controller that rotates an aluminum tube to fold/unfold the membrane antenna of the device. This code allows the Arduino-every board to operate a stepper motor to change the shape of the folding membrane of the antenna. While it folds, it changes the receiving radio frequency by changing the exposed surface of copper trace on the membrane. It also activates the TDA5767 radio module that receives an FM signal from the antenna._**
 
 ## Introduction
 
