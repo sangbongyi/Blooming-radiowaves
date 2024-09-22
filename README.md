@@ -11,7 +11,7 @@ The ecological or post-anthropocene perspective starts from awareness of our cur
 
 ## Interaction diagram
 This device consists of the folding antenna and its structure and the radio circuit which receives signals from a flower-shaped antenna. The folding antenna membrane has a copper trace on the surface. This conductive part gets the radio wave signal in the air and enables the circuit to play the FM signal. The membrane folds by itself since its origami structure and the stepper motor behind the holding frame rotate the axis that the folding membrane is bound.  By adjusting the surface of the conductive part on the antenna, the radio catches different radio wave signals in the air.
-![Hyper-object Dowser image 2](/assets/images/diagram.png)
+![Hyper-object Dowser image 2](/assets/images/diagram.jpg)
 
 ## Gallery
 ![Hyper-object Dowser image 3](/assets/images/image_2.png)
