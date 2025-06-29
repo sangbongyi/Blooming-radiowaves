@@ -2,6 +2,7 @@
 **_Stepper motor controller that rotates an aluminum tube to fold/unfold the membrane antenna of the device. This code allows the Arduino-every board to operate a stepper motor to change the shape of the folding membrane of the antenna. While it folds, it changes the receiving radio frequency by changing the exposed surface of copper trace on the membrane. It also activates the TDA5767 radio module that receives an FM signal from the antenna._**
 
 Youngji Cho - Material research, Video editing
+
 Sangbong Lee - Hardware design, Microcontroller programming
 
 ## Introduction
@@ -9,6 +10,8 @@ Sangbong Lee - Hardware design, Microcontroller programming
 The project device has a flower-shaped antenna and a simple radio circuit. The antenna on the front receives radio waves around the device, like the recognition organ of a living organism. The detected signal passes through a radio circuit and is converted into a sound that audiences can hear. Through this signal, the audiences can recognize the footprints of the gigantic technological civilization that always exists around us.
 
 The ecological or post-anthropocene perspective starts from awareness of our current situation. One of the various artificial traces created by humans is radio waves. It creates so many waves, so we can tell that we live in the radio waves civilization. By creating a device that is sonifying this huge ecological footprint, we can recognize the shock that is not captured by our senses.
+
+Foldable structure - https://www.jpl.nasa.gov/edu/resources/project/space-origami-make-your-own-starshade/
 
 ![Hyper-object Dowser image 1](/assets/images/image_1.png)
 
