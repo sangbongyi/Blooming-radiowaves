@@ -1,6 +1,9 @@
 # Blooming-radiowaves
 **_Stepper motor controller that rotates an aluminum tube to fold/unfold the membrane antenna of the device. This code allows the Arduino-every board to operate a stepper motor to change the shape of the folding membrane of the antenna. While it folds, it changes the receiving radio frequency by changing the exposed surface of copper trace on the membrane. It also activates the TDA5767 radio module that receives an FM signal from the antenna._**
 
+Youngji Cho - Material research, Video editing
+Sangbong Lee - Hardware design, Microcontroller programming
+
 ## Introduction
 
 The project device has a flower-shaped antenna and a simple radio circuit. The antenna on the front receives radio waves around the device, like the recognition organ of a living organism. The detected signal passes through a radio circuit and is converted into a sound that audiences can hear. Through this signal, the audiences can recognize the footprints of the gigantic technological civilization that always exists around us.
