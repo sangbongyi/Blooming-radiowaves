@@ -10,7 +10,7 @@ The project device has a flower-shaped antenna and a simple radio circuit. The a
 
 The ecological or post-anthropocene perspective starts from awareness of our current situation. One of the various artificial traces created by humans is radio waves. It creates so many waves, so we can tell that we live in the radio waves civilization. By creating a device that is sonifying this huge ecological footprint, we can recognize the shock that is not captured by our senses.
 
-Foldable structure - https://www.jpl.nasa.gov/edu/resources/project/space-origami-make-your-own-starshade/
+Foldable structure(Courtesy NASA/JPL-Caltech) - https://www.jpl.nasa.gov/edu/resources/project/space-origami-make-your-own-starshade/
 
 ![Hyper-object Dowser image 1](/assets/images/image_1.png)
 
